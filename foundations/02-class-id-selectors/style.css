@@ -1,15 +1,15 @@
-p{
+.odd{
     background-color: #ffb6c1;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-#font36{
+#two{
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
 .font24{
     font-size: 24px;
 }
-div.font24{
+#four{
     background-color: hsl(120, 73%, 75%);
     font-weight: bold;
 }
